@@ -1,2 +1,2 @@
 # Chatting-room
-Using socket and threading to implemen
+Using socket and threading to implement
